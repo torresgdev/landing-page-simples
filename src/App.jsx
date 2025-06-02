@@ -1,5 +1,6 @@
 import Header from './components/Header'
 import Hero from './components/Hero'
+import Features from './components/Features'
 import './App.css'
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
 
       <main className='flex-grow mt-3'>
         <Hero />
+        <Features />
       </main>
     </div>
     
