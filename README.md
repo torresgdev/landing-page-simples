@@ -79,6 +79,6 @@ Siga estes passos para ter uma cópia local do projeto rodando em sua máquina:
 ## 🌐 Deploy Online
 
 Este projeto está hospedado em:
-[https://bejewelled-meerkat-a9d1a5.netlify.app]
+https://earnest-maamoul-3fd5af.netlify.app
 
 ---
